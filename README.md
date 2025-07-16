@@ -1,3 +1,4 @@
+![](https://img.shields.io/badge/author-atlaso4ek-blue)
 # Async PyTelegramBotAPI bot sample
 Заготовка под асинхронного тг-бота на pytelebot с:
 - Стейтами 
